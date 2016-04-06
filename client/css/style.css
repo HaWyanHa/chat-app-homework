@@ -7,4 +7,18 @@
     font-size: 0.8em;
     color: #999;
     margin-left: 1em;
+    position: relative;
+    top: -18px;
+    right: 48px;
+    color: black;
+}
+
+p{
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 3%;
+	position: relative;
+	background-color: cornflowerblue;
+	color: white;
+	box-shadow: 1px 6px 20px black;
 }
